@@ -1,0 +1,32 @@
+html {
+    background-image: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+                linear-gradient(127deg, black, black 70.71%),
+                linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+
+.image1 {
+    background-image: url("https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png");
+    height: 450px;
+    color: white;
+}
+.image2 {
+    background-image: url("https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png");
+    height: 600px;
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+button:hover {
+  background-color:lightblue
+}
+
+.submit-blue {
+    background-color: blue;
+    height: 50px;
+    width: 80px;
+    color: white;
+    border-radius: 5px;
+    margin-top: 20px;
+}
